@@ -1,0 +1,19 @@
+{
+  "name": "18-forkify",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "chandu": "parcel build index.html",
+    "kaushal": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.8.2",
+    "regenerator-runtime": "^0.13.11"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.2"
+  }
+}
